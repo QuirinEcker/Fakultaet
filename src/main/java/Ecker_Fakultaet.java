@@ -1,3 +1,22 @@
+/*----------------------------------------------------------
+ *                 HTL-Leonding / Klasse: 1xHITM
+ * ----------------------------------------------------------
+ * Übungsnr.:   04
+ * Übungstitel: GrownUpCalculator
+ * Autoren:     Vorname Nachname
+ * Version:     1.0
+ * Datum:
+ * ----------------------------------------------------------
+ * Kurzbeschreibung:
+ * ...
+ *
+ * ----------------------------------------------------------
+ * Beschreibung der grundlegenden Lösungsidee:
+ * ...
+ *
+ * ----------------------------------------------------------
+*/
+
 import java.util.Scanner;
 
 public class Ecker_Fakultaet {
